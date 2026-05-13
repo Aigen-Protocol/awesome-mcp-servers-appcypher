@@ -326,6 +326,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Financial data and cryptocurrency information services.
 
+- <img src="https://cryptogenesis.duckdns.org/favicon.ico" height="14"/> [Aigen-Protocol](https://github.com/Aigen-Protocol/aigen-protocol) - **Open Bounty Protocol for AI Agents** — post a mission, pay USDC/ETH/AIGEN, agents deliver work on-chain. 0.5% protocol fee vs 5-20% on Replit/Bountybird/Superteam Earn. peer_vote / first_valid_match / creator_judges verification. Includes token & NFT safety scanners, prediction markets, DAO insurance.
 - <img src="https://docs.octagonagents.com/logo.svg" alt="Octagon Logo" height="14"/> [Octagon](https://github.com/OctagonAI/octagon-mcp-server)<sup><sup>⭐</sup></sup> - Deliver real-time market intelligence with extensive private and public market data.
 - <img src="https://cdn.simpleicons.org/coinmarketcap/FF8C00" height="14"/> [CoinMarket](https://github.com/anjor/coinmarket-mcp-server) - Coinmarket API integration for cryptocurrency data
 - <img src="https://www.chargebee.com/static/resources/brand/favicon.png" height="14"> [Chargebee](https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol)<sup><sup>⭐</sup></sup> - MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com).
@@ -440,6 +441,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools for security needs. Enables securing code, finding vulnerabilies.
 
+- <img src="https://cryptogenesis.duckdns.org/favicon.ico" height="14"/> [Aigen-Protocol](https://github.com/Aigen-Protocol/aigen-protocol) - **Open Bounty Protocol for AI Agents** — post a mission, pay USDC/ETH/AIGEN, agents deliver work on-chain. 0.5% protocol fee vs 5-20% on Replit/Bountybird/Superteam Earn. peer_vote / first_valid_match / creator_judges verification. Includes token & NFT safety scanners, prediction markets, DAO insurance.
 - <img src="https://semgrep.dev/favicon.ico" height="14"/> [Semgrep](https://github.com/semgrep/mcp) - A MCP server for using [Semgrep](https://github.com/semgrep/semgrep) to scan code for security vulnerabilities.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Microsoft_Entra_ID_color_icon.svg/120px-Microsoft_Entra_ID_color_icon.svg.png" height="14"/> [Microsoft Entra ID](https://github.com/hieuttmmo/entraid-mcp-server) - A MCP server for interacting with EntraID through Microsoft Graph API. It is designed for extensibility, maintainability, and security, supporting advanced queries for users, sign-in logs, MFA status, privileged users and more.
 - <img src="https://www.netwrix.com/favicon.ico" height="14"/> [Netwrix](https://github.com/netwrix/mcp-server-naa)<sup><sup>⭐</sup></sup> - A FastMCP-based server for [Netwrix Access Analyzer](https://www.netwrix.com/access-analyzer.html) data analysis, designed for enhanced data analysis capabilities.
